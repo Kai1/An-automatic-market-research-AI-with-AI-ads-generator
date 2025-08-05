@@ -1,0 +1,51 @@
+
+VENTAMIN AI - CONTENT ANALYSIS SUMMARY
+=====================================
+
+Analysis Date: 2025-07-31 07:27:10
+
+VIDEO METADATA:
+- Format: MP4
+- Resolution: 1920x1080
+- Duration: 75 seconds
+- Frame Rate: 30 fps
+
+CONTENT STRUCTURE:
+- Total Scenes: 8
+- Average Scene Duration: 9.4 seconds
+- Overall Pacing: moderate
+
+VISUAL ANALYSIS:
+- Primary Colors: #2c3e50, #3498db, #e74c3c
+- Style: modern_professional
+- Visual Complexity: moderate
+
+AUDIO ANALYSIS:
+- Background Music Genre: corporate_inspirational
+- Voice Over Present: True
+- Audio Quality: True
+
+ENGAGEMENT ANALYSIS:
+- Target Audience: professionals
+- Engagement Level: high
+- Call-to-Actions: 2
+
+AI RECOMMENDATIONS:
+- Style Preference: modern_professional
+- Target Duration: 60-90 seconds
+- Quality Target: 0.85
+
+KEY INSIGHTS:
+1. Professional presentation style with modern aesthetics
+2. Strong visual hierarchy and clear content structure
+3. Effective use of color and typography
+4. Balanced pacing with engaging transitions
+5. High-quality audio mixing and professional voice-over
+
+RECOMMENDATIONS FOR AI VIDEO GENERATION:
+1. Maintain professional color scheme and typography
+2. Use smooth transitions and moderate pacing
+3. Include clear data visualizations and infographics
+4. Add corporate background music and professional voice-over
+5. Focus on key messages and strong call-to-actions
+6. Ensure brand consistency throughout the video

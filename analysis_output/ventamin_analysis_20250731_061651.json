@@ -1,0 +1,202 @@
+{
+  "product_analysis": {
+    "ventamin_lightup_sachet": {
+      "product_name": "Ventamin Light Up Sachet",
+      "product_type": "skincare_supplement",
+      "packaging_features": [
+        "golden_packaging",
+        "vertical_text",
+        "premium_aesthetic"
+      ],
+      "target_audience": "beauty_conscious_consumers",
+      "key_benefits": [
+        "skin_brightening",
+        "glow_enhancement",
+        "natural_ingredients"
+      ],
+      "visual_characteristics": {
+        "primary_colors": [
+          "yellow"
+        ],
+        "text_elements": [
+          "Ventamin",
+          "LIGHT UP"
+        ],
+        "packaging_style": "premium",
+        "brand_positioning": "luxury_skincare"
+      }
+    },
+    "ventamin_lightup_box": {
+      "product_name": "Ventamin Light Up Box",
+      "product_type": "skincare_supplement",
+      "packaging_features": [
+        "bright_yellow_packaging",
+        "dual_language",
+        "botanical_ingredients"
+      ],
+      "target_audience": "health_conscious_consumers",
+      "key_benefits": [
+        "lemon_powder",
+        "fern_extract",
+        "botanical_beverage"
+      ],
+      "visual_characteristics": {
+        "primary_colors": [
+          "yellow"
+        ],
+        "text_elements": [
+          "Ventamin",
+          "LIGHT UP"
+        ],
+        "packaging_style": "modern",
+        "brand_positioning": "luxury_skincare"
+      }
+    }
+  },
+  "video_generation_prompts": {
+    "ventamin_lightup_sachet": {
+      "main_prompt": "Vibrant 4K beauty product advertisement. A bright yellow 'Ventamin Light Up' box (20cm x 12cm) sits prominently on a clean white surface. Dynamic lighting creates soft shadows and highlights the box's modern design. A professional hand enters frame, holding a glowing amber stick that pulses with warm light. As the stick approaches the box, golden bioluminescent particles flow from the stick to the box, causing the 'LIGHT UP' text to glow with synchronized brilliance. Background features soft-focus botanical elements (lemon slices, fern leaves) with artistic bokeh. Modern, clean aesthetic with high contrast. End frame: Bold 'Ventamin Light Up' logo with tagline 'Brighten Your Day' in clean sans-serif font.",
+      "detailed_breakdown": {
+        "scene_setup": "Clean white surface with dynamic lighting",
+        "main_product": "Bright yellow 'Ventamin Light Up' box",
+        "interaction": "Professional hand with glowing amber stick",
+        "visual_effects": "Golden bioluminescent particles flowing to box",
+        "background": "Soft-focus botanical elements (lemon slices, fern leaves)",
+        "camera_style": "Modern with artistic bokeh",
+        "color_palette": "Bright yellow with high contrast",
+        "text_overlay": "Ventamin Light Up logo with 'Brighten Your Day' tagline"
+      }
+    },
+    "ventamin_lightup_box": {
+      "main_prompt": "Vibrant 4K beauty product advertisement. A bright yellow 'Ventamin Light Up' box (20cm x 12cm) sits prominently on a clean white surface. Dynamic lighting creates soft shadows and highlights the box's modern design. A professional hand enters frame, holding a glowing amber stick that pulses with warm light. As the stick approaches the box, golden bioluminescent particles flow from the stick to the box, causing the 'LIGHT UP' text to glow with synchronized brilliance. Background features soft-focus botanical elements (lemon slices, fern leaves) with artistic bokeh. Modern, clean aesthetic with high contrast. End frame: Bold 'Ventamin Light Up' logo with tagline 'Brighten Your Day' in clean sans-serif font.",
+      "detailed_breakdown": {
+        "scene_setup": "Clean white surface with dynamic lighting",
+        "main_product": "Bright yellow 'Ventamin Light Up' box",
+        "interaction": "Professional hand with glowing amber stick",
+        "visual_effects": "Golden bioluminescent particles flowing to box",
+        "background": "Soft-focus botanical elements (lemon slices, fern leaves)",
+        "camera_style": "Modern with artistic bokeh",
+        "color_palette": "Bright yellow with high contrast",
+        "text_overlay": "Ventamin Light Up logo with 'Brighten Your Day' tagline"
+      }
+    }
+  },
+  "voice_over_scripts": {
+    "ventamin_lightup_sachet": {
+      "script_title": "Ventamin Light Up Beverage Ad - 10s",
+      "total_duration": 10,
+      "segments": [
+        {
+          "time": "0-2s",
+          "text": "Illuminate your day!",
+          "visual_cue": "Box begins to glow",
+          "tone": "energetic"
+        },
+        {
+          "time": "2-5s",
+          "text": "Ventamin Light Up: Botanical blend for radiant skin",
+          "visual_cue": "Particles flow from stick to box",
+          "tone": "educational"
+        },
+        {
+          "time": "5-8s",
+          "text": "Lemon powder with fern extract",
+          "visual_cue": "Ingredients highlighted with particle effects",
+          "tone": "natural"
+        },
+        {
+          "time": "8-10s",
+          "text": "30 sachets for your glow journey!",
+          "visual_cue": "Box opens to reveal sachets",
+          "tone": "inviting"
+        }
+      ],
+      "text_elements": {
+        "watermark": "@ventamin.global",
+        "end_screen": "Ventamin Light Up logo + #GlowJourney",
+        "style": "clean sans-serif font"
+      }
+    },
+    "ventamin_lightup_box": {
+      "script_title": "Ventamin Light Up Beverage Ad - 10s",
+      "total_duration": 10,
+      "segments": [
+        {
+          "time": "0-2s",
+          "text": "Illuminate your day!",
+          "visual_cue": "Box begins to glow",
+          "tone": "energetic"
+        },
+        {
+          "time": "2-5s",
+          "text": "Ventamin Light Up: Botanical blend for radiant skin",
+          "visual_cue": "Particles flow from stick to box",
+          "tone": "educational"
+        },
+        {
+          "time": "5-8s",
+          "text": "Lemon powder with fern extract",
+          "visual_cue": "Ingredients highlighted with particle effects",
+          "tone": "natural"
+        },
+        {
+          "time": "8-10s",
+          "text": "30 sachets for your glow journey!",
+          "visual_cue": "Box opens to reveal sachets",
+          "tone": "inviting"
+        }
+      ],
+      "text_elements": {
+        "watermark": "@ventamin.global",
+        "end_screen": "Ventamin Light Up logo + #GlowJourney",
+        "style": "clean sans-serif font"
+      }
+    }
+  },
+  "ai_recommendations": {
+    "video_generation_guidelines": {
+      "style_preference": "luxury_beauty_cinematic",
+      "color_scheme": [
+        "#FFD700",
+        "#7FDBFF",
+        "#FFFFFF",
+        "#000000"
+      ],
+      "typography": "minimalist_serif",
+      "animation_style": "smooth_elegant",
+      "pacing": "slow_to_moderate",
+      "visual_effects": [
+        "shallow_depth_of_field",
+        "golden_hour_lighting",
+        "particle_effects"
+      ]
+    },
+    "technical_specifications": {
+      "resolution": "4K",
+      "frame_rate": 24,
+      "duration": "8-15 seconds",
+      "format": "MP4",
+      "encoding": "H.264"
+    },
+    "content_optimization": {
+      "key_messages": [
+        "Illuminate Your Skin's Radiance",
+        "Glow from within",
+        "Doctor-formulated hydration",
+        "Try risk-free"
+      ],
+      "visual_elements": [
+        "Golden bioluminescent particles",
+        "Marble surface reflections",
+        "Manicured hands",
+        "Botanical elements"
+      ],
+      "brand_elements": [
+        "Ventamin logo",
+        "Light Up branding",
+        "90-Day Guarantee",
+        "@ventamin.global watermark"
+      ]
+    }
+  }
+}
